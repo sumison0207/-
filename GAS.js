@@ -1,4 +1,4 @@
-var postUrl = "https://hooks.slack.com/services/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";　
+var postUrl = "";//WebhookのURL　
 
 // botを投入したいチャンネル名を追加
  var postChannel = " "; //←チャンネル名
